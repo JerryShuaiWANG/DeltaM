@@ -5,3 +5,13 @@ This is for automated generating features for small organic molcules (in SMILES 
 Directly run Qsar_feature_generating in Python environment is fine.
 
 The last step (write all the features into a .csv file) is a bit time-consuming, please wait patiently.
+
+The main dependencies are as follows:
+deepchem==2.8.0
+numpy=1.24.3
+pandas==2.0.3
+PubChemPy==1.0.4
+python=3.8.19
+rdkit==2023.9.5
+scikit-learn==1.3.2
+scipy==1.10.1
