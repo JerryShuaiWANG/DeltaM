@@ -1,26 +1,3 @@
-#
-# File: MiscUtil.py
-# Author: Manish Sud <msud@san.rr.com>
-#
-# Copyright (C) 2019 Manish Sud. All rights reserved.
-#
-# This file is part of MayaChemTools.
-#
-# MayaChemTools is free software; you can redistribute it and/or modify it under
-# the terms of the GNU Lesser General Public License as published by the Free
-# Software Foundation; either version 3 of the License, or (at your option) any
-# later version.
-#
-# MayaChemTools is distributed in the hope that it will be useful, but without
-# any warranty; without even the implied warranty of merchantability of fitness
-# for a particular purpose.  See the GNU Lesser General Public License for more
-# details.
-#
-# You should have received a copy of the GNU Lesser General Public License
-# along with MayaChemTools; if not, see <http://www.gnu.org/licenses/> or
-# write to the Free Software Foundation Inc., 59 Temple Place, Suite 330,
-# Boston, MA, 02111-1307, USA.
-#
 
 from __future__ import print_function
 
