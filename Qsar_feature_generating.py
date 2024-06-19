@@ -38,7 +38,7 @@ def feature_generation(in_file_path, saved_dir,
 if __name__ == "__main__":
 
     t0 = time.time()
-    data_dir = r"C:\Users\Jerry Wang\Desktop\delta_learning\deepchem\test"
+    data_dir = r"./"
     in_file_name = "HOF.csv"
     in_file_path = os.path.join(data_dir, in_file_name)
     smi_column = "SMILES"
